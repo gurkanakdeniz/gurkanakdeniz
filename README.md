@@ -1,16 +1,18 @@
-### Hi there 👋
+#### Gürkan Akdeniz  <br/><br/>
 
-<!--
-**gurkanakdeniz/gurkanakdeniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**[https://linkedin.com/in/gurkanakdeniz](https://linkedin.com/in/g%C3%BCrkanakdeniz)** 
+  
+**[https://github.com/gurkanakdeniz](https://github.com/gurkanakdeniz/)** 
 
-Here are some ideas to get you started:
+**[https://gist.github.com/gurkanakdeniz](https://gist.github.com/gurkanakdeniz/)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[https://gurkanakdeniz.github.io](https://gurkanakdeniz.github.io/)**
+
+
+
+```     .--.
+\`--._,'.::.`._.--'/
+  .  ` __::__ '  .
+   :-:.`'..`'.:-:
+      \ `--' /
+```
